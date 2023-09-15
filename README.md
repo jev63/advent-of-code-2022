@@ -1,2 +1,1 @@
-# advent-of-code-2022
-Solutions to all 25 days of Advent of Code 2022
+These are my solutions to Advent of Code 2022. I was optimizing for implementation speed. So if anyone is reading this, I apologize if the code is indiscernable. Each file, when run, gives you the output for both parts of the day's questions. See you in 2023 :-)
